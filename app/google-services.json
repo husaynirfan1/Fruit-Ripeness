@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866133640605",
+    "project_id": "fruit-ripeness-detection",
+    "storage_bucket": "fruit-ripeness-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866133640605:android:1436b6d7b734404098db74",
+        "android_client_info": {
+          "package_name": "com.example.vegetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-HtlstGno_sd4qaXRAnwpGeZKYbLQ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
